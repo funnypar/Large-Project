@@ -1,0 +1,31 @@
+.btn-primary{
+    color: #fff;
+    background-color: #5200cc;
+    border-color: #7a02db;
+  }
+.btn-primary:hover{
+    color: #fff;
+    background-color: #5200cc;
+    border-color: #7a02db;
+  }
+.btn-primary:checked{
+    color: #fff;
+    background-color: #5200cc;
+    border-color: #7a02db;
+  }  
+.btn-primary::shadow{
+    color: #fff;
+    background-color: #5200cc;
+    border-color: #7a02db;
+  }
+
+#bb {
+  background-color: aliceblue;
+}
+#card {
+  color: #7a02db;
+}
+div#i {
+  /* background-image: none !important; */
+  background-color: #091612 !important;
+}
